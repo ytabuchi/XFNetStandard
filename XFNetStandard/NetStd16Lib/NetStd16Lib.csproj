@@ -8,6 +8,7 @@
     <Company>Yoshito Tabuchi</Company>
     <Product>Net Standard Library Sample</Product>
     <Description>.NET Standard 1.6 Library</Description>
+    <PackageId>ytNetStd16Lib</PackageId>
   </PropertyGroup>
 
 </Project>

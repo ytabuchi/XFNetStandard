@@ -8,6 +8,7 @@
     <Company>Yoshito Tabuchi</Company>
     <Product>Net Standard Library Sample</Product>
     <Description>.NET Standard 1.3 Library</Description>
+    <PackageId>ytNetStd13Lib</PackageId>
   </PropertyGroup>
 
 </Project>
