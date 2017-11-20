@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ytNetStd20Lib</PackageId>
+    <Authors>Yoshito Tabuchi</Authors>
+    <Company />
+    <Product>Net Standard Library Sample</Product>
+    <Version>1.0.0-pre</Version>
+    <Description>.NET Standard 2.0 Library</Description>
   </PropertyGroup>
 
 </Project>
