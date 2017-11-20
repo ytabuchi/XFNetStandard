@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PCL", "PCL", "{2A0B907F-FE9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCL259Lib", "PCL259Lib\PCL259Lib.csproj", "{C7E983DF-DA02-4A0F-B250-7D55A6E2CF10}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FormsNetStd", "FormsNetStd", "{E6ABB752-720C-45D4-BE5C-997B0BBC09B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU

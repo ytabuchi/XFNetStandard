@@ -6,15 +6,15 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("PCL259Lib")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("PCL Library Sample")]
+[assembly: AssemblyDescription("Yoshito Tabuchi")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PCL259Lib")]
-[assembly: AssemblyCopyright("Copyright (C)  2017")]
+[assembly: AssemblyCompany("Yoshito Tabuchi")]
+[assembly: AssemblyProduct("ytPCL259Lib")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: NeutralResourcesLanguage("ja")]
+[assembly: NeutralResourcesLanguage("en")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //
