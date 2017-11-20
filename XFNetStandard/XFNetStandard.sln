@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStd20Lib", "NetStd20Lib\NetStd20Lib.csproj", "{ED17D7A8-FE98-447D-A206-BA7E2B778048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetStandard", "NetStandard", "{9866B8C1-6E99-4961-B4D4-50EA04905F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStd16Lib", "NetStd16Lib\NetStd16Lib.csproj", "{5E9CABB5-5F93-499B-8119-8D7CFA4B0781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStd13Lib", "NetStd13Lib\NetStd13Lib.csproj", "{52422722-D2B7-4187-A569-3FA7287A71E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED17D7A8-FE98-447D-A206-BA7E2B778048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED17D7A8-FE98-447D-A206-BA7E2B778048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED17D7A8-FE98-447D-A206-BA7E2B778048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED17D7A8-FE98-447D-A206-BA7E2B778048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9CABB5-5F93-499B-8119-8D7CFA4B0781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9CABB5-5F93-499B-8119-8D7CFA4B0781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9CABB5-5F93-499B-8119-8D7CFA4B0781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9CABB5-5F93-499B-8119-8D7CFA4B0781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52422722-D2B7-4187-A569-3FA7287A71E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52422722-D2B7-4187-A569-3FA7287A71E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52422722-D2B7-4187-A569-3FA7287A71E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52422722-D2B7-4187-A569-3FA7287A71E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED17D7A8-FE98-447D-A206-BA7E2B778048} = {9866B8C1-6E99-4961-B4D4-50EA04905F56}
+		{5E9CABB5-5F93-499B-8119-8D7CFA4B0781} = {9866B8C1-6E99-4961-B4D4-50EA04905F56}
+		{52422722-D2B7-4187-A569-3FA7287A71E6} = {9866B8C1-6E99-4961-B4D4-50EA04905F56}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3185F6-4FA0-481D-A027-0461A7D053B9}
+	EndGlobalSection
+EndGlobal
