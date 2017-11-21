@@ -13,7 +13,7 @@ namespace NetStdForms
         {
             InitializeComponent();
 
-            MainPage = new NetStdForms.MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

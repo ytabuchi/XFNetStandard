@@ -12,8 +12,18 @@ namespace NetStdForms
         public MainPage()
         {
             InitializeComponent();
+        }
 
+        //private async void pcl_Clicked(object sender, EventArgs e)
+        //{
+        //    var res = PCL259Lib.PCL259.Hello(entry.Text);
+        //    await DisplayAlert(((Button)sender).Text, res, "OK");
+        //}
 
+        private async void netstd_Clicked(object sender, EventArgs e)
+        {
+            var res = NetStd20Lib.NetStd20.Hello(entry.Text);
+            await DisplayAlert(((Button)sender).Text, res, "OK");
         }
     }
 }

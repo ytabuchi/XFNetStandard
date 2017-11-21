@@ -9,9 +9,6 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.91635" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\PCL259Lib\PCL259Lib.csproj" />
+    <PackageReference Include="ytNetStd20Lib" Version="1.0.0-pre" />
   </ItemGroup>
 </Project>

@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage x:Class="NetStdForms.MainPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:NetStdForms"
-             x:Class="NetStdForms.MainPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+             Title="Net Standard Xamarin.Forms">
+    <StackLayout>
+        <Entry x:Name="entry" Text="Net Standard" />
+        <!--<Button Clicked="pcl_Clicked" Text="PCL Hello" />-->
+        <Button Clicked="netstd_Clicked" Text="Net Standard Hello" />
+    </StackLayout>
 </ContentPage>
