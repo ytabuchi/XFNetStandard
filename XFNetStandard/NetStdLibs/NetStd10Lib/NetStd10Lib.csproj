@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <PackageId>ytNetStd10Lib</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Yoshito Tabuchi</Authors>
+    <Company>Yoshito Tabuchi</Company>
+    <Product>Net Standard Library Sample</Product>
+    <Description>.NET Standard 1.0 Library. Please DO NOT use.</Description>
+    <Version>1.0.1-pre</Version>
+  </PropertyGroup>
+
+</Project>
