@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="NetStdForms20.MainPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NetStdForms20"
+             Title="NET Standard 2.0">
+    <StackLayout>
+        <Button Clicked="pcl_Clicked" Text="PCL" />
+        <Button Clicked="netstd_Clicked" Text="Net Standard" />
+    </StackLayout>
+</ContentPage>
