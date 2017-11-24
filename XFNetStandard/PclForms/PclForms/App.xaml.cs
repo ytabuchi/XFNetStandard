@@ -13,7 +13,7 @@ namespace PclForms
         {
             InitializeComponent();
 
-            MainPage = new PclForms.MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

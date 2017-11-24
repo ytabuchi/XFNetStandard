@@ -13,5 +13,11 @@ namespace PclForms
         {
             InitializeComponent();
         }
+
+        private async void pcl_Clicked(object sender, EventArgs e)
+        {
+            var msg = PCL259Lib.PCL259.GetMessage();
+            await DisplayAlert("PCL", msg, "OK");
+        }
     }
 }
