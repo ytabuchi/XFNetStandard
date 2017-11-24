@@ -34,6 +34,14 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .NET Framework is automatically included -->
+    <ProjectReference Include="..\PCL111Lib\PCL111Lib.csproj">
+      <Project>{ca4ab517-b3dd-473f-a1e7-88b7259d8154}</Project>
+      <Name>PCL111Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PCL259Lib\PCL259Lib.csproj">
+      <Project>{c7e983df-da02-4a0f-b250-7d55a6e2cf10}</Project>
+      <Name>PCL259Lib</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PCL151.cs" />
