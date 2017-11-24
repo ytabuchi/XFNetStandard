@@ -6,6 +6,7 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="2.5.0.91635" />
+    <PackageReference Include="Xam.Plugin.Media" Version="3.0.1" />
+    <PackageReference Include="Xamarin.Forms" Version="2.4.0.91020" />
   </ItemGroup>
 </Project>

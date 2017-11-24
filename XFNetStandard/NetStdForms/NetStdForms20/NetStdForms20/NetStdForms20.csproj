@@ -4,7 +4,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="2.5.0.91635" />
+    <PackageReference Include="Xam.Plugin.Media" Version="3.0.1" />
+    <PackageReference Include="Xamarin.Forms" Version="2.4.0.91020" />
     <PackageReference Include="ytNetStd20Lib" Version="1.0.1-pre" />
     <PackageReference Include="ytPCL259Lib" Version="1.0.1-pre" />
   </ItemGroup>
