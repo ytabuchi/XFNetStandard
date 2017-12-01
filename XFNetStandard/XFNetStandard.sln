@@ -55,7 +55,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetStd14", "NetStd14", "{3A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStdForms14.Android", "NetStdForms\NetStdForms14\NetStdForms14.Android\NetStdForms14.Android.csproj", "{115E375A-5A36-447C-92DE-A9BDBA0E4561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStdForms14", "NetStdForms\NetStdForms14\NetStdForms14\NetStdForms14.csproj", "{BA522839-6BFF-41AC-B7BF-A84E934739D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetStdForms14", "NetStdForms\NetStdForms14\NetStdForms14\NetStdForms14.csproj", "{BA522839-6BFF-41AC-B7BF-A84E934739D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStdForms14.UWP", "NetStdForms\NetStdForms14\NetStdForms14.UWP\NetStdForms14.UWP.csproj", "{54C8967D-4656-4CC0-A908-B9F6A9494CC4}"
 EndProject
